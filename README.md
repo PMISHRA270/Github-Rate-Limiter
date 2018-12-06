@@ -11,4 +11,4 @@ The detailed summary of the project can be found under ProjectSumary.docx file.
 
 # Build and Execution instructions
 
-The steps to setup and run the include clone/download this repository and follow the steps given in executionSteps.docx
+The steps to setup and run the project include clone/download the repository and follow the steps given in executionSteps.docx
